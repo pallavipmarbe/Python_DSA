@@ -4,7 +4,7 @@
 # In[1]:
 
 
-n=int(input(
+n=int(input())
 d=2
 flag=False
 while d<n:
@@ -23,6 +23,7 @@ else:
 
 
 n=int(input())
+1000
 k=2
 while k<=n:
     d=2
