@@ -36,3 +36,7 @@ if not (falg):                  5
     print(k)                    7
 k=k+1
 
+def __init__ (self, value):
+    for i in range (value):
+        print (value)
+
