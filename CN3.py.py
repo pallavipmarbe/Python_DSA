@@ -22,7 +22,7 @@ else:
 # In[ ]:
 
 
-
+n=int(input())
 1000
 k=2
 while k<=n:
