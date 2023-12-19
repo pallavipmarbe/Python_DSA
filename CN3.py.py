@@ -38,5 +38,5 @@ k=k+1
 
 def __init__ (self, value):
     for i in range (value):
-        print (value)
+        
 
