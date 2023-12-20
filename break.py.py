@@ -58,5 +58,5 @@ while k<=n:
         d=d+1         #3
     if (not (flag)):  #5
         print(k)      #7
-    k=k+1
+    k=k+
 
