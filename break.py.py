@@ -20,7 +20,7 @@ n=int(input())
 d=2
 flag=False
 while d<n:
-    if(n%d==0)
+    if(n%d==0):
         flag=True
         break
     d=d+1
