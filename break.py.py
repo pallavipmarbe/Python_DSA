@@ -18,7 +18,7 @@ while i<10:
 
 n=int(input())
 d=2
-flag=False
+flag=True
 while d<n:
     if(n%d==0):
         flag=True
