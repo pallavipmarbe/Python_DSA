@@ -22,7 +22,7 @@ while i<=n:
         i=i+2
         continue
     print(i)
-    i=i+1
+    i=i+2
 
 
 # In[7]:
