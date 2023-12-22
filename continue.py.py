@@ -37,11 +37,6 @@ print("hey")
 # In[9]:
 
 
-i=1
-while i<=3:
-    pass
-    i=i+1
-print("end")
 
 
 # In[10]:
