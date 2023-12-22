@@ -37,7 +37,7 @@ c
 # In[13]:
 
 
-d=dict.from keys(["abc",32,4],10)
+d=dict.fromkeys(["abc",32,4],10)
 d
 
 
