@@ -187,7 +187,7 @@ for w in d:
 # In[37]:
 
 
-def printKFreqWords(s,k):
+def rintKFreqWords(s,k):
     words=s.split()
     d={}
     for w in words:
