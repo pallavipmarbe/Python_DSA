@@ -134,7 +134,7 @@ for i in a:
 
 
 a={1:2,3:4,"list":[1,23],"dct":{1:2}}
-print(d[0])                  #dictionaries dont follow indexing and follow keys
+print(d[])                  #dictionaries dont follow indexing and follow keys
 
 
 # In[30]:
