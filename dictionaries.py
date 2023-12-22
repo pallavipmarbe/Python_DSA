@@ -44,7 +44,7 @@ d
 # In[10]:
 
 
-d=dic.fromkeys(["abc",32,4])
+d=dict.fromkeys(["abc",32,4])
 d
 
 
