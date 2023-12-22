@@ -212,5 +212,5 @@ printKFreqWords(s,1)
 # In[41]:
 
 
-printKfreqWords(s,3)   #3 does not exist
+printKFreqWords(s,3)   #3 does not exist
 
