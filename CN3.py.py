@@ -33,7 +33,7 @@ while k<=n:
             flag=True      #op:10
         d=d+1                   #3
 if not (falg):                  #5
-    print(k)                    7
+    print(k)                    #7
 k=k+1
 
 def __init__ (self, value):
