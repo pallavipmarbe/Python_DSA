@@ -32,7 +32,7 @@ while k<=n:
         if(k%d==0):
             flag=True      #op:10
         d=d+1                   #3
-if not (falg):                  5
+if not (falg):                  #5
     print(k)                    7
 k=k+1
 
