@@ -18,7 +18,7 @@ for i in range(2,n+1,2):
 n=int(input())
 i=2
 while i<=n:
-    if i%7==0
+    if i%7==0:
         i=i+2
         continue
     print(i)
