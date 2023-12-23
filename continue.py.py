@@ -47,6 +47,6 @@ print("end")
 # In[10]:
 
 
-for i in range(14):
+for i in range(1,4):
     pass
 print("end")
