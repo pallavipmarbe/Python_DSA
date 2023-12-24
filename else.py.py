@@ -9,7 +9,7 @@ while i<10:
     print(i)
     i=i+1
 else:
-    print("this will be printed");
+    print("this will be printed")
 
 
 # In[8]:
