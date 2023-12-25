@@ -24,7 +24,7 @@ else:
 # In[10]:
 
 
-for i in range(1,10):
+for i in range(10,10):
     if i==5:
         break
     print(i)
@@ -51,7 +51,7 @@ for i in range(2,n+1,2):
     if i%7==0:
         continue
     print(i)
-    
+
 
 # In[ ]:
 
