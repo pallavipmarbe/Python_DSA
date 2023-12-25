@@ -29,7 +29,7 @@ for i in range(1,10):
         break
     print(i)
 else:
-    print("this will be printed"):
+    print("this will be printed")
 
 
 # In[14]:
