@@ -57,7 +57,7 @@ for i in range(2,n+1,2):
 
 
 n=int(input())
-for i in range(2,n+1,2):
+for i in range(2,n+1,2,5,3):
     print(i)
     if i%7==0:
         continue
