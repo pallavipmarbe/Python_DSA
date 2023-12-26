@@ -24,7 +24,7 @@ else:
 # In[10]:
 
 
-for i in range(1,10):
+for i in range(1,10,3):
     if i==5:
         break
     print(i)
