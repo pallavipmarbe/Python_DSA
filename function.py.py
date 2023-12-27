@@ -9,7 +9,7 @@ n=int(input())
 r=int(input())
 n_fact=1
 for i in range(1,n+1):
-    n_fact=n_facti
+    n_fact=n_fact*i
 r_fact=1
 for i in range(1,r+1):
     r_fact=r_fact*i
