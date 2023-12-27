@@ -46,7 +46,7 @@ def isPrime(n):
         if (n % d==0):
             break
         else:
-            return True         #isPrime(17)
+            return True         #isPrime
         return False            #True
 
 
