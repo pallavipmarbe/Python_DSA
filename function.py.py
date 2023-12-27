@@ -25,7 +25,7 @@ print(ans)
 
 def fact(a):
     n_fact=1
-    for i in range(1,a+1):
+    for i in range(1,1):
         n_fact=n_fact*i
     return n_fact
     
