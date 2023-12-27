@@ -42,7 +42,7 @@ print(ans)
 
 
 def isPrime(n):
-    for d in range(2,n):
+    for d in range(2,n,3):
         if (n % d==0):
             break
         else:
