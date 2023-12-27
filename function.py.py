@@ -33,9 +33,7 @@ n=int(input())
 r=int(input())
 n_fact=fact(n)
 r_fact=fact(r)
-n_r_fact=fact(n-r)
-ans=n_fact//(r_fact*n_r_fact)
-print(ans)
+n_r_fact=fact(n-r)print(ans)
 
 
 # In[30]:
