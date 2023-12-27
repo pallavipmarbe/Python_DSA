@@ -47,8 +47,7 @@ def isPrime(n):
             break
         else:
             return True         #isPrime(17)
-                                #True
-        return False
+        return False            #True
 
 
 # In[31]:
