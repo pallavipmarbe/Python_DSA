@@ -53,7 +53,7 @@ def isPrime(n):
 # In[31]:
 
 
-isPrime(7)
+isPrime(17)
 
 
 # In[33]:
