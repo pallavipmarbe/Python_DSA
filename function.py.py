@@ -59,7 +59,7 @@ isPrime(17)
 # In[33]:
 
 
-def primeFrom2ToN(n):
+def primeFrom2(n):
     for k in range(2,n+1):
         #check if k is prime and if k is prime print k
         is_k_prime=isPrime(k)
