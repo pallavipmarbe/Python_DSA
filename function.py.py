@@ -64,7 +64,7 @@ def primeFrom2ToN(n):
         #check if k is prime and if k is prime print k
         is_k_prime=isPrime(k)
         if(is_k_prime):
-            print(k)
+            print(k
     
 
 
