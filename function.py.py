@@ -98,7 +98,7 @@ def func(a):
     a = a + 10
     return a
 a = 5
-func(a)#exercise que
+func(a)   #exercise que
 print(a)
 
 
