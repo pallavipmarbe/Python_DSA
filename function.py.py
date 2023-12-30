@@ -82,7 +82,7 @@ def ncr(n,r):
     r_fact=fact(r)
     n_r_fact=fact(n-r)
     ans=n_fact//(r_fact*n_r_fact)
-    return answer
+    return ans
 
 
 # In[39]:
