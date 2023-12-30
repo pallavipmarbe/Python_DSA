@@ -111,7 +111,7 @@ def square(a):
 
 a = 4
 a = square(a)  #exercise que
-print(a
+print(a)
 
 
 # In[55]:
