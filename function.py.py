@@ -107,10 +107,10 @@ print(a)
 
 def square(a):
     ans  = a*a
-    return  an
+    return  ans
 
 a = 4
-a = square(a)#exercise que
+a = square(a)  #exercise que
 print(a)
 
 
