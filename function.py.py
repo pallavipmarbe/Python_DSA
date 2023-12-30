@@ -94,7 +94,7 @@ ncr(5,2)
 # In[41]:
 
 
-def func(a)
+def func(a):
     a = a + 10
     return a
 a = 5
