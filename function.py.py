@@ -77,7 +77,7 @@ primeFrom2ToN(20)
 # In[37]:
 
 
-def ncr(n,r,e):
+def ncr(n,r):
     n_fact=fact(n)
     r_fact=fact(r)
     n_r_fact=fact(n-r)
