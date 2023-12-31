@@ -174,7 +174,7 @@ print(a)
 # In[65]:
 
 
-def sum(a,b,c=0):
+def sum(a,b,c=0)
     print(c)
     return a+b+c
 print(sum(2,3,4))
