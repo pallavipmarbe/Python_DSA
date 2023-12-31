@@ -157,7 +157,7 @@ def f():
     global a
     a=12     #exercise que
 f()
-print(a)
+print(a
 
 
 # In[61]:
