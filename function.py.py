@@ -120,7 +120,8 @@ a1=10  #global variable
 def f1():
     b1=12  #local variable
     print(b1)
-
+print(a1)
+f1()
 #cant print local variable outside function print(b1)
 
 
