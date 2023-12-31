@@ -146,7 +146,7 @@ a = 14
 def f():
     a=12
 f()
-print(a)#exercise que
+print(a)    #exercise que
 
 
 # In[60]:
