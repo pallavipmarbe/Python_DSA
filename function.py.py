@@ -188,7 +188,6 @@ print(sum(3,4))
 def (a=0,b,c):
     return a+b+c
 f(1,2)
-print(a,b,c)
 
 
 # In[69]:
