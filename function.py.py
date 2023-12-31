@@ -142,7 +142,10 @@ f2()
 # In[59]:
 
 
-
+a = 14
+def f():
+    a=12
+f()
 print(a)#exercise que
 
 
