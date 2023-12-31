@@ -185,9 +185,10 @@ print(sum(3,4))
 
 
 #all non default arguments should be before argument with default values
-def(a=0,b,c):
+def (a=0,b,c):
     return a+b+c
 f(1,2)
+print(a,b,c)
 
 
 # In[69]:
