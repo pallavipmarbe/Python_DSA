@@ -166,7 +166,7 @@ print(a)
 a = 14
 def f():
     a = 12
-    return a   #exercise que
+    return a  #exercise que
 a = f()
 print(a)
 
