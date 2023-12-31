@@ -122,7 +122,7 @@ def f1():
     print(b1)
 print(a1)
 f1()
-#cant print local variable outside function print(b1)
+#cant print local variable outside function print(b1
 
 
 # In[57]:
