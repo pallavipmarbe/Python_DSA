@@ -155,7 +155,7 @@ print(a)    #exercise que
 a=14
 def f():
     global a
-    a=12     #exercise que
+    a=12   #exercise que
 f()
 print(a)
 
