@@ -213,9 +213,9 @@ print(value)
 # In[4]:
 
 
-def function(a,b,c=1):
+def function(a,b=20,c=1):
     return a+b-c
-value = function(10,12,5)  #exercise que
+value = function(10,20,5)  #exercise que
 print(value)
 
 
