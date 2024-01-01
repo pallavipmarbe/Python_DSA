@@ -215,7 +215,7 @@ print(value)
 
 def function(a,b=20,c=1):
     return a+b-c
-value = function(10,20,5)  #exercise que
+value = function(10,2,5)  #exercise que
 print(value)
 
 
