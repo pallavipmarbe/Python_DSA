@@ -185,12 +185,6 @@ print(sum(3,4))
 
 
 #all non default arguments should be before argument with default values
-def f(a=0, b=0, c=0):
-    return a + b + c
-
-result = f(1, 2)
-print(result)
-
 
 
 # In[69]:
