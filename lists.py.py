@@ -60,7 +60,7 @@ li
 # In[19]:
 
 
-li[4]=
+li[4]=9
 
 
 # slicing of a list
