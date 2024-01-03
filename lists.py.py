@@ -13,7 +13,7 @@ type(li)
 # In[4]:
 
 
-li=[1,2,"par.4]
+li=[1,2,"parikh",3.4]
 li
 
 
