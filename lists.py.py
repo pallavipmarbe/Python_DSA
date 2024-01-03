@@ -7,7 +7,7 @@
 
 
 li=[1,2,3]
-type(li)
+type(li
 
 
 # In[4]:
