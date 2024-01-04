@@ -17,7 +17,7 @@ li=[1,2,"parikh",3.4]
 li
 
 
-# access and change elements in list
+# access and change elements i
 
 # In[6]:
 
