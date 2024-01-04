@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # create a list
-
 # In[2]:
 
 
