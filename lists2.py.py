@@ -14,7 +14,7 @@ li
 
 
 li.append("ankush")
-l
+li
 
 
 # In[7]:
