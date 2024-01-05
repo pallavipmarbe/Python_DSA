@@ -6,7 +6,7 @@
 # In[2]:
 
 
-li=[1,"pallu",5,"bho"]
+li=[1,"pal",5,"bho"]
 li
 
 
