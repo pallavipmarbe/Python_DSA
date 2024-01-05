@@ -21,7 +21,7 @@ li
 
 
 li.insert(1,7)
-li#[1, 7, 'pal', 5, 'bho', 10, 'ankush']
+li#[1, 7, 'pal', 5, 'bho', 'ankush']
 
 
 # In[9]:
