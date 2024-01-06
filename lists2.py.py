@@ -70,7 +70,7 @@ li.pop()
 # In[33]:
 
 
-li.pop(181)
+li.pop(81)
 
 
 # In[1]:
