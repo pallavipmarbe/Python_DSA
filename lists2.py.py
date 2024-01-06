@@ -76,7 +76,7 @@ li.pop(181)
 # In[1]:
 
 
-len(li)
+len(li)/;
 
 
 # In[3]:
