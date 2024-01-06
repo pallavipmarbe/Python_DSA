@@ -64,7 +64,7 @@ li
 # In[31]:
 
 
-li.pop(6)    
+li.pop()    
 
 
 # In[33]:
