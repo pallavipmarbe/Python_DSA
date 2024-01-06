@@ -144,7 +144,7 @@ for ele in li[2:]:
 
 
 li = [1,2,3,4,5]
-for i in li[1:4]: #exercise que
+for i in li[1:4]:      #exercise que
     print(i,end= " ")
 
 
