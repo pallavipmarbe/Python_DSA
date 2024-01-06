@@ -99,7 +99,7 @@ print(li)
 
 
 li = [5,2,6,8]
-li.pop(2)#exercise que
+li.pop(2)            #exercise que
 print(li)
 
 
