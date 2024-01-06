@@ -28,7 +28,7 @@ li        #[1, 7, 'pal', 5, 'bho', 'ankush']
 
 
 li.extend([9,10,11])
-li          #[1, 7, 'pal', 5, 'bho', 10, 'ankush', 9, 10, 11]
+li          
 
 
 # removing elements from list
