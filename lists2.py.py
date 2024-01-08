@@ -82,7 +82,7 @@ len(li)
 # In[3]:
 
 
-li =['abcd', 'def']
+li =['abcd', 'def'
 li.insert(4,5)       #exercise que
 print(li)
 
